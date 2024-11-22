@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Libre Baskerville", serif;
+}
+#bg{
+  background-image: url('https://img.freepik.com/premium-photo/illustration-fitness-equipments-design-background_916191-39402.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#bg2{
+  background-image: url('./images/WhatsApp\ Image\ 2024-11-22\ at\ 23.51.06_84e43ba1.jpg');
+  width: 100px;
+  height: 80vh;
+  
+  
+}
