@@ -71,7 +71,7 @@ function App() {
   
   return (
     <>
-     <div className='bg-secondary d-flex justify-content-center align-items-center'id='bg' style= { {  height: '100vh', width: '100%',  }}>
+     <div className='bg-secondary d-flex justify-content-center align-items-center'id='bg' style= { {  height: '100vh', width: '100%'  }}>
         <div className=' p-5 rounded-2 shadow 'id='bg2' style={{ width: '500px' }}>
           <h1 className='text-white'>BMI Calculator</h1>
          
